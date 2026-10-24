@@ -35,9 +35,7 @@ class CopKutusu {
     }
 }
 
-// ---------------------------------------------------------------
 // Bir çöp toplama aracı
-// ---------------------------------------------------------------
 class Arac {
     int id;
     List<CopKutusu> atananlar = new ArrayList<>(); // bu araca verilen dolu kutular
