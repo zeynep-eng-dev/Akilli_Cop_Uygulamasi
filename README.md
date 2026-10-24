@@ -1,3 +1,5 @@
+[README_NetBeans.md](https://github.com/user-attachments/files/33901652/README_NetBeans.md)
+
 <div align="center">
 
 # 🚛 Akıllı Çöp Toplama Rota Planlayıcı
@@ -80,32 +82,6 @@ Yani yakın ve ağır kutular öncelikli olur. Araca sığmayan kutu atlanır, a
 **Gereksinimler:** JDK 8 veya üzeri
 
 Önce projeyi indir: **Code → Download ZIP** ile indirip klasöre çıkar.
-
-### 🟦 Seçenek 1: NetBeans ile
-1. **File → Open Project** ile proje klasörünü aç.
-2. **F6** ile çalıştır.
-3. Program konsolda sorularını sorar, cevapları **Output** penceresine yaz.
-
-### ⬛ Seçenek 2: Terminalden
-Proje klasörünün içinde şunları çalıştır:
-
-```bash
-javac -d out src/Main.java
-java -cp out Main
-```
-
-> ⚠️ `kutular.csv` dosyasını **programı çalıştırdığın klasöre** (proje ana klasörü) koy. Yoksa "Dosya okunamadı" hatası alırsın.
-
-Program sana sırayla şunları sorar:
-
-```
-Toplama limiti (kg): 30
-Araç kapasitesi (kg): 100
-Araç sayısı (1-5): 3
-CSV dosya adı (boş bırakırsan rastgele kutu üretilir): kutular.csv
-```
-
-> 💡 CSV dosya adını boş bırakırsan program **20 rastgele kutu** üretir.
 
 ---
 
