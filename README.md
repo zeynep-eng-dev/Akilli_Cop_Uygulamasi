@@ -1,5 +1,4 @@
-[README_NetBeans.md](https://github.com/user-attachments/files/33901652/README_NetBeans.md)
-
+[README_NetBeans (1).md](https://github.com/user-attachments/files/33901685/README_NetBeans.1.md)
 <div align="center">
 
 # 🚛 Akıllı Çöp Toplama Rota Planlayıcı
@@ -101,16 +100,7 @@ id,x,y,agirlik
 
 ---
 
-## 🗂️ Proje Yapısı
-
-```
-📦 Proje
- ┣ 📁 src          → Main.java (tüm program)
- ┣ 📁 nbproject    → NetBeans ayarları
- ┣ 📜 build.xml
- ┣ 📊 kutular.csv  → Örnek veri
- ┗ 📘 README.md
-```
+## 🧩 Sınıflar
 
 | Sınıf | Görevi |
 |---|---|
@@ -139,3 +129,4 @@ id,x,y,agirlik
 ⭐ Projeyi beğendiysen yıldız vermeyi unutma!
 
 </div>
+
